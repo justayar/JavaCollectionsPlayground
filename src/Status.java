@@ -1,0 +1,3 @@
+public enum Status {
+    CREATED, IN_PROGRESS, FINISHED, CANCELLED, FAILED
+}
